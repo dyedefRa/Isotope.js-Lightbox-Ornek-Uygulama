@@ -1,0 +1,11 @@
+https://cdnjs.com/libraries/ekko-lightbox
+=>(Bootstrap Light box)
+https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css
+
+https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.js
+
+
+https://isotope.metafizzy.co/
+ISOTOPE => SIRALAMA OLAYI 
+
+<script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.js"></script>
